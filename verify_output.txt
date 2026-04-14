@@ -1,0 +1,7 @@
+﻿[FAIL] DA-AG-014_SQL_Advanced_Functions.ipynb (11 cells) ù 'TotalOrders': False
+[OK] DA-AG-014_Tableau_Data_Visualization.ipynb (18 cells) ù 'Business Intelligence': True
+[OK] Python_OOPs_Assignment.ipynb (20 cells) ù 'Method Resolution Order': True
+[OK] Files_Exception_Handling_Assignment.ipynb (14 cells) ù 'reference counting': True
+[OK] Data_Toolkit_Assignment.ipynb (15 cells) ù 'pairplot': True
+
+Some checks FAILED ù review above.

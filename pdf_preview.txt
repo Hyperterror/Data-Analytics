@@ -1,0 +1,406 @@
+﻿
+============================================================
+FILE: 68e3a90e73300cc472138059.pdf (104524 bytes)
+============================================================
+Pages: 4
+
+--- Page 1 ---
+Assignment Code: D-AG-008
+Supervised Learning: Regression
+Models and Performance Metrics |
+Solution
+Instructions: Carefully read each question. Use Google Docs, Microsoft Word, or a similar tool
+to create a document where you type out each question along with its answer. Save the
+document as a PDF, and then upload it to the LMS. Please do not zip or archive the files before
+uploading them. Each question carries 20 marks.
+Total Marks: 200
+Question 1 : What is Simple Linear Regression (SLR)? Explain its purpose.
+Answer:
+Question 2: What are the key assumptions of Simple Linear Regression?
+Answer:
+
+--- Page 2 ---
+Question 3: Write the mathematical equation for a simple linear regression model and
+explain each term.
+Answer:
+Question 4: Provide a real-world example where simple linear regression can be
+applied.
+Answer:
+Question 5: What is the method of least squares in linear regression?
+Answer:
+Question 6: What is Logistic Regression? How does it differ from Linear Regression?
+Answer:
+
+============================================================
+FILE: 67a5ad8123b72ee32cf1d98e.pdf (108445 bytes)
+============================================================
+Pages: 5
+
+--- Page 1 ---
+Assignment Code: DA-AG-009
+Supervised Classification: Decision
+Trees, SVM, and Naive Bayes|
+Assignment
+Instructions: Carefully read each question. Use Google Docs, Microsoft Word, or a similar tool
+to create a document where you type out each question along with its answer. Save the
+document as a PDF, and then upload it to the LMS. Please do not zip or archive the files before
+uploading them. Each question carries 20 marks.
+Total Marks: 200
+Question 1 : What is Information Gain, and how is it used in Decision Trees?
+Answer:
+Question 2: What is the difference between Gini Impurity and Entropy?
+Hint: Directly compares the two main impurity measures, highlighting strengths,
+weaknesses, and appropriate use cases.
+Answer:
+
+--- Page 2 ---
+Question 3:What is Pre-Pruning in Decision Trees?
+Answer:
+Question 4:Write a Python program to train a Decision Tree Classifier using Gini
+Impurity as the criterion and print the feature importances (practical).
+Hint: Use criterion='gini' in DecisionTreeClassifier and access .feature_importances_.
+(Include your Python code and output in the code box below.)
+Answer:
+
+============================================================
+FILE: 68ac1998df174b83ca5ef141.pdf (129251 bytes)
+============================================================
+Pages: 4
+
+--- Page 1 ---
+Assignment Code: DA-AG-006
+Statistics Advanced - 1| Assignment
+Instructions: Carefully read each question. Use Google Docs, Microsoft Word, or a similar tool
+to create a document where you type out each question along with its answer. Save the
+document as a PDF, and then upload it to the LMS. Please do not zip or archive the files before
+uploading them. Each question carries 20 marks.
+Total Marks: 200
+Question 1: What is a random variable in probability theory?
+Answer:
+Question 2: What are the types of random variables?
+Answer:
+Question 3: Explain the difference between discrete and continuous distributions.
+Answer:
+1
+
+--- Page 2 ---
+Question 4: What is a binomial distribution, and how is it used in probability?
+Answer:
+Question 5: What is the standard normal distribution, and why is it important?
+Answer:
+Question 6: What is the Central Limit Theorem (CLT), and why is it critical in statistics?
+Answer:
+2
+
+============================================================
+FILE: 68b545eadd2241afd29db9d3.pdf (130017 bytes)
+============================================================
+Pages: 4
+
+--- Page 1 ---
+Assignment Code: DA-AG-007
+Statistics Advanced - 2| Assignment
+Instructions: Carefully read each question. Use Google Docs, Microsoft Word, or a similar tool
+to create a document where you type out each question along with its answer. Save the
+document as a PDF, and then upload it to the LMS. Please do not zip or archive the files before
+uploading them. Each question carries 20 marks.
+Total Marks: 180
+Question 1: What is hypothesis testing in statistics?
+Answer:
+Question 2: What is the null hypothesis, and how does it differ from the alternative
+hypothesis?
+Answer:
+Question 3: Explain the significance level in hypothesis testing and its role in deciding
+the outcome of a test.
+Answer:
+1
+
+--- Page 2 ---
+Question 4: What are Type I and Type II errors? Give examples of each.
+Answer:
+Question 5: What is the difference between a Z-test and a T-test? Explain when to use
+each.
+Answer:
+2
+
+============================================================
+FILE: 68be91eae7254a0a429b242b.pdf (131204 bytes)
+============================================================
+Pages: 5
+
+--- Page 1 ---
+Assignment Code: DA-AG-008
+Machine Learning Intro | Assignment
+Instructions: Carefully read each question. Use Google Docs, Microsoft Word, or a similar tool
+to create a document where you type out each question along with its answer. Save the
+document as a PDF, and then upload it to the LMS. Please do not zip or archive the files before
+uploading them. Each question carries 20 marks.
+Total Marks: 200
+Question 1: Explain the differences between AI, ML, Deep Learning (DL), and Data
+Science (DS).
+Answer:
+Question 2: What are the types of machine learning? Describe each with one
+real-world example.
+Answer:
+1
+
+--- Page 2 ---
+Question 3: Define overfitting, underfitting, and the bias-variance tradeoff in machine
+learning.
+Answer:
+Question 4: What are outliers in a dataset, and list three common techniques for
+handling them.
+Answer:
+Question 5: Explain the process of handling missing values and mention one
+imputation technique for numerical and one for categorical data.
+Answer:
+2
+
+============================================================
+FILE: 68d12fc7eebb3ba2ffec8f92.pdf (151860 bytes)
+============================================================
+Pages: 5
+
+--- Page 1 ---
+Error: 'charmap' codec can't encode character '\u25cf' in position 500: character maps to <undefined>
+
+============================================================
+FILE: 68a30d7c2ef2a11feec2692d.pdf (163343 bytes)
+============================================================
+Pages: 5
+
+--- Page 1 ---
+Assignment Code: DS-AG-005
+Statistics Basics| Assignment
+Instructions: Carefully read each question. Use Google Docs, Microsoft Word, or a similar tool
+to create a document where you type out each question along with its answer. Save the
+document as a PDF, and then upload it to the LMS. Please do not zip or archive the files before
+uploading them. Each question carries 20 marks.
+Total Marks: 200
+Question 1: What is the difference between descriptive statistics and inferential
+statistics? Explain with examples.
+Answer:
+Question 2: What is sampling in statistics? Explain the differences between random
+and stratified sampling.
+Answer:
+1
+
+--- Page 2 ---
+Question 3: Define mean, median, and mode. Explain why these measures of central
+tendency are important.
+Answer:
+Question 4: Explain skewness and kurtosis. What does a positive skew imply about the
+data?
+Answer:
+Question 5: Implement a Python program to compute the mean, median, and mode of
+a given list of numbers.
+numbers = [12, 15, 12, 18, 19, 12, 20, 22, 19, 19, 24, 24, 24, 26, 28]
+(Include your Python code and output in the code box below.)
+Answer:
+Paste your code and output inside the box below:
+2
+
+============================================================
+FILE: 68d12a8e3901eefd1fc0093e.pdf (181173 bytes)
+============================================================
+Pages: 5
+
+--- Page 1 ---
+Assignment Code: DA-AG-012
+Advanced Excel| Assignment
+Instructions: Carefully read each question before attempting. Use Google Docs, Microsoft
+Word, or a similar tool to type out each theoretical question along with its answer. For practical
+questions, use Microsoft Excel to complete the required tasks. Once you have finished, save
+both the Word/Docs file and the Excel file as PDF documents. Please ensure that you do not zip
+or archive the files before uploading. Submit the PDF files directly to the LMS or as instructed by
+your teacher. Each question carries 20 marks.
+Total Marks: 200
+Question 1 : Explain the difference between Absolute, Relative, and Mixed Cell
+Referencing in Excel with examples.
+Answer :
+Question 2 : What is a Macro in Excel? How does it help in automation?
+Answer :
+
+--- Page 2 ---
+Question 3 : What are Text Functions in Excel? Mention any five with examples.
+Answer :
+Question 4 : What is the use of Scenario Manager in decision making?
+Answer :
+Question 5 : Define the purpose of VLOOKUP and HLOOKUP. How are they different
+from XLOOKUP? Which among XLOOKUP and INDEX-MATCH is best while usage?
+Answer :
+
+============================================================
+FILE: 672f5820e6d0b380d1318509.pdf (215701 bytes)
+============================================================
+Pages: 9
+
+--- Page 1 ---
+Assignment Code: DA-AG-014
+Introduction to SQL and Advanced
+Functions | Assignment
+Instructions:
+Carefully read each question before attempting. Use Google Docs, Microsoft Word, or a similar
+tool to type out each theoretical question along with its answer. For practical questions, use
+SQL Workbench (or your designated SQL tool) to complete the required tasks. Once you have
+finished, save both the Word/Docs file and SQL File as PDF documents. Please ensure that you
+do not zip or archive the files before uploading. Submit the PDF files directly to the LMS or as
+instructed by your teacher. Each question carries 20 marks.
+Total Marks: 200
+Question 1 : Explain the fundamental differences between DDL, DML, and DQL
+commands in SQL. Provide one example for each type of command.
+Answer :
+
+--- Page 2 ---
+Question 2 : What is the purpose of SQL constraints? Name and describe three common types
+of constraints, providing a simple scenario where each would be useful.
+Answer :
+Question 3 : Explain the difference between LIMIT and OFFSET clauses in SQL. How
+would you use them together to retrieve the third page of results, assuming each page
+has 10 records?
+Answer :
+
+============================================================
+FILE: 68da573adcf3946995d751cf.pdf (229958 bytes)
+============================================================
+Pages: 9
+
+--- Page 1 ---
+Error: 'charmap' codec can't encode character '\u25cf' in position 102: character maps to <undefined>
+
+============================================================
+FILE: 67fdf7a89a28c2606cb64c23.pdf (266579 bytes)
+============================================================
+Pages: 9
+
+--- Page 1 ---
+Error: 'charmap' codec can't encode character '\u25cf' in position 104: character maps to <undefined>
+
+============================================================
+FILE: 674d921693e8991c7b860a29.pdf (902477 bytes)
+============================================================
+Pages: 2
+
+--- Page 1 ---
+Data Toolkit
+Assignment Questions
+
+--- Page 2 ---
+Data Toolkit
+What is NumPy, and why is it widely used in Python 
+How does broadcasting work in NumPy 
+What is a Pandas DataFrame 
+Explain the use of the groupby() method in Pandas 
+Why is Seaborn preferred for statistical visualizations 
+What are the differences between NumPy arrays and Python lists 
+What is a heatmap, and when should it be used 
+What does the term ôvectorized operationö mean in NumPy 
+How does Matplotlib differ from Plotly 
+What is the significance of hierarchical indexing in Pandas 
+What is the role of SeabornÆs pairplot() function 
+What is the purpose of the describe() function in Pandas 
+Why is handling missing data important in Pandas 
+What are the benefits of using Plotly for data visualization 
+How does NumPy handle multidimensional arrays 
+What is the role of Bokeh
+
+============================================================
+FILE: 66d59eca297010620dc600ad.pdf (1327750 bytes)
+============================================================
+Pages: 3
+
+--- Page 1 ---
+Files, exceptional handling,
+logging and memory
+management
+
+Assignment Questions
+
+--- Page 2 ---
+Files, exceptional handling, logging and
+memory management Questions
+
+What is the difference between interpreted and compiled languages 
+What is exception handling in Python 
+What is the purpose of the finally block in exception handling 
+What is logging in Python 
+What is the significance of the __del__ method in Python 
+What is the difference between import and from ... import in Python 
+How can you handle multiple exceptions in Python 
+What is the purpose of the with statement when handling files in Python 
+What is the difference between multithreading and multiprocessing 
+What are the advantages of using logging in a program 
+What is memory management in Python 
+What are the basic steps involved in exception handling in Python 
+Why is memory management important in Python 
+What is the 
+
+============================================================
+FILE: 679b7314cd54246c412f4ae9.pdf (1614856 bytes)
+============================================================
+Pages: 4
+
+--- Page 1 ---
+Python OOPs
+Assignment Questions
+
+--- Page 2 ---
+Python OOPs Questions
+
+What is Object-Oriented Programming (OOP) 
+What is a class in OOP 
+What is an object in OOP 
+What is the difference between abstraction and encapsulation 
+What are dunder methods in Python 
+Explain the concept of inheritance in OOP 
+What is polymorphism in OOP 
+How is encapsulation achieved in Python 
+What is a constructor in Python 
+What are class and static methods in Python 
+What is method overloading in Python 
+What is method overriding in OOP 
+What is a property decorator in Python 
+Why is polymorphism important in OOP 
+What is an abstract class in Python 
+What are the advantages of OOP 
+What is the difference between a class variable and an instance variable 
+What is multiple inheritance in Python 
+Explain the purpose of æÆ__str__Æ and æ__repr__Æ æ methods in P
+
+============================================================
+FILE: 6874eecfebe67a9e53cee332.pdf (1872195 bytes)
+============================================================
+Pages: 3
+
+--- Page 1 ---
+Assignment
+Functions
+Lesson Plan
+Polymorphism and
+
+Encapsulation
+Java + DSA
+
+--- Page 2 ---
+Theory Questions:
+Note: For each theory Question, give at least one example.
+
+1. What is the difference between a function and a method in Python?
+
+2. Explain the concept of function arguments and parameters in Python.
+
+3. What are the different ways to define and call a function in Python?
+
+4. What is the purpose of the `return` statement in a Python function?
+
+5. What are iterators in Python and how do they differ from iterables?
+
+6. Explain the concept of generators in Python and how they are defined.
+
+7. What are the advantages of using generators over regular functions?
+
+8. What is a lambda function in Python and when is it typically used?
+
+9. Explain the purpose and usage of the `map()` function in Python.
+
+10. What is the difference between `map()`, `reduce()`, and `filter()` functi

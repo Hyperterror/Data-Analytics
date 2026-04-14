@@ -1,0 +1,36 @@
+﻿=== PDFs ===
+2026-04-14 01:15 | 67fdf7a89a28c2606cb64c23.pdf | 266579 bytes
+2026-04-14 01:15 | 68da573adcf3946995d751cf.pdf | 229958 bytes
+2026-04-14 01:14 | 68d12a8e3901eefd1fc0093e.pdf | 181173 bytes
+2026-04-14 01:14 | 672f5820e6d0b380d1318509.pdf | 215701 bytes
+2026-04-14 01:13 | 67a5ad8123b72ee32cf1d98e.pdf | 108445 bytes
+2026-04-14 01:13 | 68e3a90e73300cc472138059.pdf | 104524 bytes
+2026-04-14 01:13 | 68d12fc7eebb3ba2ffec8f92.pdf | 151860 bytes
+2026-04-14 01:13 | 68be91eae7254a0a429b242b.pdf | 131204 bytes
+2026-04-14 01:12 | 68b545eadd2241afd29db9d3.pdf | 130017 bytes
+2026-04-14 01:12 | 68ac1998df174b83ca5ef141.pdf | 129251 bytes
+2026-04-14 01:11 | 68a30d7c2ef2a11feec2692d.pdf | 163343 bytes
+2026-04-14 01:11 | 674d921693e8991c7b860a29.pdf | 902477 bytes
+2026-04-14 01:10 | 66d59eca297010620dc600ad.pdf | 1327750 bytes
+2026-04-14 01:10 | 679b7314cd54246c412f4ae9.pdf | 1614856 bytes
+2026-04-14 01:10 | 6874eecfebe67a9e53cee332.pdf | 1872195 bytes
+
+=== Notebooks ===
+2026-04-14 10:08 | DA-AG-014_Tableau_Data_Visualization.ipynb
+2026-04-14 10:03 | DA-AG-014_Tableau_Data_Visualization_fixed.ipynb
+2026-04-14 09:57 | DA-AG-009_EDA.ipynb
+2026-04-14 09:49 | Java_DSA_Functions_Assignment_Complete.ipynb
+2026-04-14 09:28 | Python_OOPs_Assignment.ipynb
+2026-04-14 09:28 | Python_Basics.ipynb
+2026-04-14 09:28 | Files_Exception_Handling_Assignment.ipynb
+2026-04-14 09:28 | Data_Types_and_Structures.ipynb
+2026-04-14 09:28 | Data_Toolkit_Assignment.ipynb
+2026-04-14 09:28 | DA-AG-014_SQL_Advanced_Functions.ipynb
+2026-04-14 09:28 | DA-AG-013_Power_BI.ipynb
+2026-04-14 09:28 | DA-AG-012_Advanced_Excel.ipynb
+2026-04-14 09:28 | DA-AG-009_Supervised_Classification.ipynb
+2026-04-14 09:28 | DA-AG-008_Supervised_Learning_Regression.ipynb
+2026-04-14 09:28 | DA-AG-008_Machine_Learning_Intro.ipynb
+2026-04-14 09:28 | DA-AG-007_Statistics_Advanced_2.ipynb
+2026-04-14 09:28 | DA-AG-006_Statistics_Advanced_1.ipynb
+2026-04-14 09:28 | DA-AG-005_Statistics_Basics.ipynb

@@ -1,0 +1,41 @@
+﻿Total cells: 11
+
+Cell 0: # DA-AG-014 SQL and Advanced Functions
+
+Answers prepared in notebook format.
+
+Cell 1: ## Q1. Explain the fundamental differences between DDL, DML, and DQL commands in SQL.
+
+DDL defines and changes database 
+
+Cell 2: ## Q2. What is the purpose of SQL constraints?
+
+Constraints enforce rules on data to improve accuracy and integrity. Com
+
+Cell 3: ## Q3. Explain the difference between LIMIT and OFFSET clauses in SQL.
+
+LIMIT controls how many rows are returned, while
+
+Cell 4: ## Q4. What is a Common Table Expression (CTE) in SQL, and what are its main benefits?
+
+A CTE is a named temporary resul
+
+Cell 5: ## Q5. Describe SQL normalization and its primary goals. Briefly explain 1NF, 2NF, 3NF.
+
+Normalization organizes data to
+
+Cell 6: ## Q6. Create database ECommerceDB and define tables with constraints, then insert the given records.
+
+Use CREATE TABLE 
+
+Cell 7: ## Q7. Write SQL queries to retrieve all orders with customer and product details, and calculate the total bill for each
+
+Cell 8: ## Q8. Retrieve ProductName, Price, StockQuantity, and CategoryName for all products ordered by category and product nam
+
+Cell 9: ## Q9. Use a CTE and window function to display the top 2 most expensive products in each category.
+
+Use ROW_NUMBER() or
+
+Cell 10: ## Q10. Sakila Video Rentals business questions.
+
+Answer the five analysis tasks using SQL joins, aggregation, date filt

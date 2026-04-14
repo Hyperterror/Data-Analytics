@@ -1,0 +1,26 @@
+﻿Fix 1: SQL notebook ù adding Q7...
+  Saved: DA-AG-014_SQL_Advanced_Functions.ipynb
+  Done ù Q7 added at index 7.
+
+Fix 2: Tableau notebook ù fixing JSON and adding Q1-Q4 theory...
+  Saved: DA-AG-014_Tableau_Data_Visualization.ipynb
+  Done ù Q1-Q4 theory added, JSON fixed.
+
+Fix 3: Python OOPs ù adding 19 theory answers...
+  Replaced theory cell at index 1
+  Saved: Python_OOPs_Assignment.ipynb
+  Done ù 19 theory answers added.
+
+Fix 4: Files & Exception Handling ù adding theory answers...
+  Replaced theory cell at index 1
+  Saved: Files_Exception_Handling_Assignment.ipynb
+  Done ù 14 theory answers added.
+
+Fix 5: Data Toolkit ù adding 16 theory answers...
+  Replaced theory cell at index 1
+  Saved: Data_Toolkit_Assignment.ipynb
+  Done ù 16 theory answers added.
+
+============================================================
+ALL 5 FIXES COMPLETE
+============================================================
