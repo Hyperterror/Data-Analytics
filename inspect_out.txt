@@ -1,4 +1,0 @@
-﻿Q6 at index: 6
-Q8 at index: 7
-Total cells: 10
-Gap between Q6 and Q8: 0 cell(s)
